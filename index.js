@@ -12,4 +12,4 @@ You should NOT try to redefine any of the above variables.
  let ageIsValid = Number.isInteger(currentAge)
  
  randomNumber = Math.random(0,20)
- randomInteger
+ randomInteger = floored(randomNumber)
