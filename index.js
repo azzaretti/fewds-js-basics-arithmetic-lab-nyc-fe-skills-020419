@@ -11,4 +11,4 @@ You should NOT try to redefine any of the above variables.
  
  let ageIsValid = Number.isInteger(currentAge)
  
- randomNumber = 
+ randomNumber = Math.Ran
