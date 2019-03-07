@@ -13,4 +13,4 @@ You should NOT try to redefine any of the above variables.
  
  randomNumber = Math.random(0,20)
  randomInteger = Math.floor(randomNumber)
- randomUserID = 
+ randomUserID = randomInteger + "Math.random(0,20)"
